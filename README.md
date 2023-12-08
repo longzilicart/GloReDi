@@ -2,9 +2,9 @@
 
 This repository contains the implementation of "Learning to Distill Global Representation for Sparse-View CT" in ICCV2023. It includes two main components:
 
-**(1) Simulator Protocol for Sparse-View CT**: A simulator protocol for sparse-view CT during the training process in CUDA. Designed as an easy-to-use wrapper, it is compatible with various networks and datasets.
+**(1) simulator protocol for Sparse-View CT**: A simulator protocol for sparse-view CT during the training process in CUDA. Designed as an easy-to-use wrapper, it is compatible with various networks and datasets.
 
-**(2) Network and Distillation Framework**: An effective image-domain-only method for sparse-view CT reconstruction.
+**(2) Fourier network and distillation framework**: An effective image-domain-only method for sparse-view CT reconstruction.
 
 
 
