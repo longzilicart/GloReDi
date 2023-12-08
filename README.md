@@ -14,7 +14,7 @@ This repository contains the implementation of "Learning to Distill Global Repre
 
 
 ## Data Preparation
-The DeepLesion dataset is available at [DeepLesion](https://nihcc.app.box.com/v/ChestXray-NIHCC), and the AAPM-Myo dataset can be downloaded from [CT Clinical Innovation Center](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/)
+The DeepLesion dataset is available at [DeepLesion](https://nihcc.app.box.com/v/ChestXray-NIHCC), and the AAPM-Myo dataset can be downloaded from [CT Clinical Innovation Center](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/).
 
 
 ## Requirements
